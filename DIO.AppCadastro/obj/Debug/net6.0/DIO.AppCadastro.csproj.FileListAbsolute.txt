@@ -1,0 +1,15 @@
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.csproj.AssemblyReference.cache
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.AssemblyInfoInputs.cache
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.AssemblyInfo.cs
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.csproj.CoreCompileInputs.cache
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\bin\Debug\net6.0\DIO.AppCadastro.exe
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\bin\Debug\net6.0\DIO.AppCadastro.deps.json
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\bin\Debug\net6.0\DIO.AppCadastro.runtimeconfig.json
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\bin\Debug\net6.0\DIO.AppCadastro.dll
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\bin\Debug\net6.0\ref\DIO.AppCadastro.dll
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\bin\Debug\net6.0\DIO.AppCadastro.pdb
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.dll
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\ref\DIO.AppCadastro.dll
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.pdb
+D:\Projetos\APP Simples de Cadastro em .NET\DIO.AppCadastro\obj\Debug\net6.0\DIO.AppCadastro.genruntimeconfig.cache
